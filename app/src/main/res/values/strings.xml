@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab2ATipCalc</string>
+
+    <string name="tBill">Total Bill: </string>
+    <string name="tPerc">Tip Percentage: </string>
+    <string name="nPeople">Number of People: </string>
+    <string name="calc">Calculate</string>
+
+    <string name="tPPerson"> </string>
+    <string name="tPPersonF">Total Per Person: $</string>
+    <string name="billFinal"> </string>
+    <string name="billFinalF">Total Bill: $</string>
+
+    <string name="failure">Please Complete all Fields</string>
+
+</resources>
